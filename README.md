@@ -62,6 +62,6 @@ QuizGame/
 ├── MultipleChoiceQuestion.cs   # Derived class for multiple choice questions
 ├── OpenEndedQuestion.cs        # Derived class for open-ended questions
 ├── TrueOrFalseQuestion.cs      # Derived class for true/false questions
-├── QuizGame.csproj             # C# project file
+├── ConsoleAppQuizGame.csproj   # C# project file
 └── README.md                   # This file
 ```
